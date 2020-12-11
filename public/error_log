@@ -1,0 +1,1 @@
+[17-Sep-2020 11:15:57 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Input as Input because the name is already in use in /home/kkx1q5vik36m/public_html/shopify_app/app/Http/Controllers/discountController.php on line 17
